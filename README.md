@@ -1,6 +1,6 @@
 # Strata Mining Helper
 
-A **Wingman AI** skill for **Star Citizen** that turns your wingman into a mining co-pilot. Ask it
+A [Wingman AI](https://wingman-ai.com) skill for **Star Citizen** that turns your wingman into a mining co-pilot. Ask it
 where to mine an ore, what a scanner signature means, or what's hidden in an asteroid belt — and get
 fast, accurate answers pulled live from the [Strata Mining Tools](https://strata.celd.space) database.
 
